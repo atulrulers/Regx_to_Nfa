@@ -4,4 +4,4 @@ Further it is reduced to Detreminsitic finite automata (DFA) and there is a func
 
 Do make it better :) 
 
-# PS :- Soon detail explanation of code will be uploaded.
+##### PS :- Soon detail explanation of code will be uploaded.
